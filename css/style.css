@@ -63,13 +63,13 @@ a.active, .nav_bar a:hover{
 	position: absolute;
 	width: 400px;
 	right: 0;
-	top: 5%;
+	top: -2%;
 
 }
 .content1{
 	position: absolute;
 	width: 930px;
-	min-height: 700px;
+	min-height: 650px;
 	height: auto;
 	right: 0;
 	top: 10%;
