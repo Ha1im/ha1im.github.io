@@ -17,6 +17,16 @@ html, body{
 	position: relative;
 	overflow-y: auto;
 }
+.background1{
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/bg1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	overflow-y: auto;
+}
+
 .title h1{
 	font-family: 'Dancing Script', cursive;
 	font-size: 100px;
