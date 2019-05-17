@@ -95,30 +95,33 @@ a.active, .nav_bar a:hover{
 }
 .content2{
 	position: absolute;
-	width: 930px;
-	min-height: 200px;
+	line-height: 40px;
+	width: 1100px;
+	min-height: 530px;
 	height: auto;
 	right: 0;
 	top: 10%;
 }
 
 .about{
-	position: absolute;
+position: absolute;
 	right: 0;
 	bottom: 0;
 	color: white;
-	font-family: verdana;
-	
+	font-family: monospace;
+
 }
+
 .about h1{
 	font-size: 20px;
-	padding-right: 250px;
+	padding-right: 100px;
 
 }
 .content3{
 	position: absolute;
-	width: 930px;
-	min-height: 200px;
+	line-height: 40px;
+	width: 1100px;
+	min-height: 300px;
 	height: auto;
 	right: 0;
 	top: 10%;
@@ -129,17 +132,18 @@ a.active, .nav_bar a:hover{
 	right: 0;
 	bottom: 0;
 	color: white;
-	font-family: verdana;
-	
+	font-family: monospace;
+
 }
 .projects h1{
 	font-size: 20px;
-	padding-right: 250px;
+	padding-right: 90px;
 
 }
 .content4{
 	position: absolute;
-	width: 930px;
+	line-height: 40px;
+	width: 1100px;
 	min-height: 300px;
 	height: auto;
 	right: 0;
@@ -151,11 +155,10 @@ a.active, .nav_bar a:hover{
 	right: 0;
 	bottom: 0;
 	color: white;
-	font-family: verdana;
-	
+	font-family: monospace;
 }
 .contact h1{
 	font-size: 25px;
-	padding-right: 250px;
+	padding-right: 150px;
 
 }
