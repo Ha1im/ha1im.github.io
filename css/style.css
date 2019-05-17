@@ -88,7 +88,7 @@ a.active, .nav_bar a:hover{
 	padding-right: 90px;
 	border-bottom: 1px solid white;
 }
-.home h3{
+.home h2{
 	font-size: 28px;
 	padding: 5px 0;
 	opacity: 0.6;
@@ -120,26 +120,54 @@ position: absolute;
 .content3{
 	position: absolute;
 	line-height: 40px;
-	width: 1100px;
-	min-height: 300px;
+    width: 1100px;
+	min-height: 400px;
 	height: auto;
 	right: 0;
 	top: 10%;
 }
 
-.projects{
+.projects1{
 	position: absolute;
 	right: 0;
 	bottom: 0;
 	color: white;
 	font-family: monospace;
+	height:300px;
 
 }
-.projects h1{
+.projects1 h1{
 	font-size: 20px;
-	padding-right: 90px;
+	padding-right: 350px;
 
 }
+.projects2{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	color: white;
+	font-family: monospace;
+	height: 200px;
+
+}
+.projects2 h1{
+	font-size: 20px;
+	padding-right: 150px;
+}
+.projects3{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	color: white;
+	font-family: monospace;
+	height: 0px;
+
+}
+.projects3 h1{
+	font-size: 20px;
+	padding-right: 150px;
+}
+
 .content4{
 	position: absolute;
 	line-height: 40px;
